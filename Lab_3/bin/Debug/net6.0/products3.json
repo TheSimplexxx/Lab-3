@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "iPhone X",
+    "Price": 999.99,
+    "Brand": "Apple",
+    "OS": "iOS"
+  },
+  {
+    "Name": "Galaxy S10",
+    "Price": 899.99,
+    "Brand": "Samsung",
+    "OS": "Android"
+  },
+  {
+    "Name": "Pixel 3",
+    "Price": 799.99,
+    "Brand": "Google",
+    "OS": "Android"
+  },
+  {
+    "Name": "Mate 20 Pro",
+    "Price": 1099.99,
+    "Brand": "Huawei",
+    "OS": "Android"
+  },
+  {
+    "Name": "Xperia XZ3",
+    "Price": 799.99,
+    "Brand": "Sony",
+    "OS": "Android"
+  }
+]
